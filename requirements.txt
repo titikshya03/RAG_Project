@@ -1,0 +1,7 @@
+python.env
+openai
+pymupdf
+pypdf
+azure-search-documents
+streamlit
+fitz
